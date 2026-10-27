@@ -32,3 +32,4 @@
 6. **Custom Timetables &amp; Schedules: It looks at upcoming deadlines and automatically blocks 15–30 minutes in your daily schedule to practice the topics you are struggling with.**
 7. **Stress & Burnout Management: If you have been coding or debugging for 4 hours straight, the mentor steps in: tells you to take a break, suggest a quick 5-minute stretch, or drink water so your brain doesn't burn out.**
 
+
