@@ -34,3 +34,5 @@
 
 
 # Solution
+
+ 1. I GOT AN idea - anpother njsagnjksdgn
