@@ -23,13 +23,10 @@
 15. **Zero-Prompt Click-First UI**: **Replaces empty text inputs with high-velocity interaction chips ("Show Intuition", "Give Hint 1", "Next Twin Problem", "Explain with Code").**
 16. **Socratic Tutoring & Multi-Tiered Hints**: **Progressive conceptual scaffolding (Tier 1: Subtle clue, Tier 2: Guiding question, Tier 3: Core formula/breakdown). Generates an isomorphic "twin problem" immediately after to verify genuine independent comprehension.**
 17. **Spaced Retrieval Vault (FSRS-based)**: **Algorithmic tracking of retention intervals and error patterns using Free Spaced Repetition Scheduling (FSRS) to schedule targeted micro-recall sessions just before concepts decay.
-# Features that were told to SAI sir :
-1. **Classroom-Format Solution Engine: The AI is locked to our actual syllabus and lecture slides. Itonly explains things using the syntax, loops, and commands our professors taught in class.**
-2. **Socratic Mentor (No Spoon-Feeding): Instead of dumping the answer, it tells you where you went wrong: Check line 14—what happens if the input is empty ; It guides you to solve it yourself.** 
-3. **Natural Voice Mode: You don't even have to type. You put on headphones, toggle voice mode, and speak to the mentor naturally like you&#39;re talking to a senior sitting next to you.**
- 4. **Test &amp; Assignment Diagnosis: After every online assignment or test, it breaks down your exact errors (e.g., whether you missed a question due to a silly syntax slip or a deep conceptual gap).**
- 5. **Personalized Medicine (Practice Questions): It doesn't give you 50 random problems. It gives you the exact 2 or 3 micro-questions you need to fix your specific weak spot.**
-6. **Custom Timetables &amp; Schedules: It looks at upcoming deadlines and automatically blocks 15–30 minutes in your daily schedule to practice the topics you are struggling with.**
-7. **Stress & Burnout Management: If you have been coding or debugging for 4 hours straight, the mentor steps in: tells you to take a break, suggest a quick 5-minute stretch, or drink water so your brain doesn't burn out.**
+18. **Classroom-Format Solution Engine: The AI is locked to our actual syllabus and lecture slides. Itonly explains things using the syntax, loops, and commands our professors taught in class.**
+19. **Natural Voice Mode: You don't even have to type. You put on headphones, toggle voice mode, and speak to the mentor naturally like you are talking to a senior sitting next to you.**
+ 20. **Test & Assignment Diagnosis: After every online assignment or test, it breaks down your exact errors (e.g., whether you missed a question due to a silly syntax slip or a deep conceptual gap).**
+ 21. **Personalized Medicine (Practice Questions): It doesn't give you 50 random problems. It gives you the exact 2 or 3 micro-questions you need to fix your specific weak spot.**
+22. **Stress & Burnout Management: If you have been coding or debugging for 4 hours straight, the mentor steps in: tells you to take a break, suggest a quick 5-minute stretch, or drink water so your brain doesn't burn out.**
 
 
