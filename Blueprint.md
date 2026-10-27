@@ -25,5 +25,3 @@
 17. **Spaced Retrieval Vault (FSRS-based)**: **Algorithmic tracking of retention intervals and error patterns using Free Spaced Repetition Scheduling (FSRS) to schedule targeted micro-recall sessions just before concepts decay.**
 
 # Solution
-
-I got an idea
