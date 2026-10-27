@@ -23,6 +23,5 @@
 15. **Zero-Prompt Click-First UI**: **Replaces empty text inputs with high-velocity interaction chips ("Show Intuition", "Give Hint 1", "Next Twin Problem", "Explain with Code").**
 16. **Socratic Tutoring & Multi-Tiered Hints**: **Progressive conceptual scaffolding (Tier 1: Subtle clue, Tier 2: Guiding question, Tier 3: Core formula/breakdown). Generates an isomorphic "twin problem" immediately after to verify genuine independent comprehension.**
 17. **Spaced Retrieval Vault (FSRS-based)**: **Algorithmic tracking of retention intervals and error patterns using Free Spaced Repetition Scheduling (FSRS) to schedule targeted micro-recall sessions just before concepts decay.**
-18. bsjzdjngkjz
 
 # Solution
