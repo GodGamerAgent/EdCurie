@@ -28,7 +28,6 @@
  20. **Test & Assignment Diagnosis: After every online assignment or test, it breaks down your exact errors (e.g., whether you missed a question due to a silly syntax slip or a deep conceptual gap).**
  21. **Personalized Medicine (Practice Questions): It doesn't give you 50 random problems. It gives you the exact 2 or 3 micro-questions you need to fix your specific weak spot.**
 22. **Stress & Burnout Management: If you have been coding or debugging for 4 hours straight, the mentor steps in: tells you to take a break, suggest a quick 5-minute stretch, or drink water so your brain doesn't burn out.**
-# Solution
+# Drafted Solution
 
-
-
+1. 
