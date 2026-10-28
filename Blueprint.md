@@ -3,7 +3,7 @@
 1. **Granular Concept Mastery Tracking: Continuously pinpoints the exact sub-concepts or topics where the student falls behind or demonstrates high error rates.**
 2. **Cognitive & Learning Pattern Profiling: Observes and logs how the student learns best (e.g., visual intuition, mathematical proof, step-by-step code, or analogy-driven explanations) and tracks attention spans and study habits.**
 3. **Goal & Milestone Alignment: Stores target competitive exams, academic milestones, syllabus scope, target scores, and hard deadlines.**
-4. **Intelligent Intake Assessment: On signup, the AI interviews the student to capture available daily study hours, weekly commitments, calendar constraints, prior background knowledge, and primary target goals.**
+4. **Intelligent Intake Assessment: On signup, the AI interviews the student to capture available daily study hours, weekly commitments, calendar constraints, prior obackground knowledge, and primary target goals.**
 5. **Curriculum Feasibility & Difficulty Score: Evaluates target deadlines against current baseline proficiency and available hours:**
 	1. **Proposes an optimized custom roadmap.**
 	2. **Clarifies if a goal is mathematically or pedagogically unrealistic.**
@@ -22,13 +22,6 @@
 14. **Behavioral & Learning-Style Adaptation**: **System classifies the student's cognitive processing modes and dynamically re-renders explanations (visual intuition vs. formal proofs vs. interactive code).**
 15. **Zero-Prompt Click-First UI**: **Replaces empty text inputs with high-velocity interaction chips ("Show Intuition", "Give Hint 1", "Next Twin Problem", "Explain with Code").**
 16. **Socratic Tutoring & Multi-Tiered Hints**: **Progressive conceptual scaffolding (Tier 1: Subtle clue, Tier 2: Guiding question, Tier 3: Core formula/breakdown). Generates an isomorphic "twin problem" immediately after to verify genuine independent comprehension.**
-17. **Spaced Retrieval Vault (FSRS-based)**: **Algorithmic tracking of retention intervals and error patterns using Free Spaced Repetition Scheduling (FSRS) to schedule targeted micro-recall sessions just before concepts decay.
-18. **Classroom-Format Solution Engine: The AI is locked to our actual syllabus and lecture slides. Itonly explains things using the syntax, loops, and commands our professors taught in class.**
-19. **Natural Voice Mode: You don't even have to type. You put on headphones, toggle voice mode, and speak to the mentor naturally like you are talking to a senior sitting next to you.**
- 20. **Test & Assignment Diagnosis: After every online assignment or test, it breaks down your exact errors (e.g., whether you missed a question due to a silly syntax slip or a deep conceptual gap).**
- 21. **Personalized Medicine (Practice Questions): It doesn't give you 50 random problems. It gives you the exact 2 or 3 micro-questions you need to fix your specific weak spot.**
-22. **Stress & Burnout Management: If you have been coding or debugging for 4 hours straight, the mentor steps in: tells you to take a break, suggest a quick 5-minute stretch, or drink water so your brain doesn't burn out.**
+17. **Spaced Retrieval Vault (FSRS-based)**: **Algorithmic tracking of retention intervals and error patterns using Free Spaced Repetition Scheduling (FSRS) to schedule targeted micro-recall sessions just before concepts decay.**
+
 # Solution
-
-
-
