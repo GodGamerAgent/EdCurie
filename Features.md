@@ -1,4 +1,4 @@
-# Complete Feature List (23 Features in 6 Simple Buckets)
+ # Complete Feature List (23 Features in 6 Simple Buckets)
 
 ## Bucket 1: Getting to Know You (Onboarding & Learning Style)
 
